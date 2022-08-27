@@ -7,7 +7,7 @@
 .container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: 200px 200px 200px 200px;
+  grid-template-rows: 200px 300px 250px 150px;
   gap: 0.5rem;
 }
 
